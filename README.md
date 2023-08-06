@@ -5,7 +5,7 @@ Auction is a Solidity smart contract that facilitates auction functionality for 
 
 ## Getting Started
 
-1. Clone this repository: `git clone https://github.com/gkirat/Auction-new-features.git`
+1. Clone this repository: `git clone https://github.com/gkirat/main.git`
 2. Install the required dependencies: [Solidity Compiler](https://soliditylang.org/), [Truffle Framework](https://www.trufflesuite.com/truffle)
 3. Deploy the smart contract to your preferred Ethereum network.
 
