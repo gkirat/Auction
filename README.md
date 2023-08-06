@@ -34,9 +34,6 @@ Auction is a Solidity smart contract that facilitates auction functionality for 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 Feel free to customize the information as per your requirements and project details. The Readme files provide an overview of the features and usage instructions for each smart contract.
 
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 ## Note
 
